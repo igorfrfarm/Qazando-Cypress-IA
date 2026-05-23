@@ -1,5 +1,7 @@
 ﻿# Cypress E2E Boilerplate
 
+Pequeno projeto de exemplo com testes E2E em Cypress.
+
 Install:
 
 ```bash
