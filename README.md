@@ -33,7 +33,7 @@ npm test
 Note: in CI environments prefer `npm ci`.
 
 
-###Cypress Execution Report###
+# Cypress Execution Report
 Started: 2026-05-19T14:49:21.974Z
 Ended: 2026-05-19T14:49:43.639Z
 Total: 12   Passed: 12   Failed: 0
