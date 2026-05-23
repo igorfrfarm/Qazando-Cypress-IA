@@ -41,19 +41,19 @@ Ended: 2026-05-19T14:49:43.639Z
 Total: 12   Passed: 12   Failed: 0
 
 Spec: Login.cy.js
-Tests: 6   Pass: 6   Fail: 0
-PASSED: Testes de Login - aplicação de exemplo › Login com sucesso (senha > 6 dígitos)
-PASSED: Testes de Login - aplicação de exemplo › Falha: e-mail vazio
-PASSED: Testes de Login - aplicação de exemplo › Falha: senha vazia
-PASSED: Testes de Login - aplicação de exemplo › Falha: ambos os campos vazios
-PASSED: Testes de Login - aplicação de exemplo › Falha: senha com menos de 6 dígitos
-PASSED: Testes de Login - aplicação de exemplo › Link "ainda não tem conta?" leva à página de cadastro
+Tests: 6   Pass: 6   Fail: 0<br>
+PASSED: Testes de Login - aplicação de exemplo › Login com sucesso (senha > 6 dígitos)<br>
+PASSED: Testes de Login - aplicação de exemplo › Falha: e-mail vazio<br>
+PASSED: Testes de Login - aplicação de exemplo › Falha: senha vazia<br>
+PASSED: Testes de Login - aplicação de exemplo › Falha: ambos os campos vazios<br>
+PASSED: Testes de Login - aplicação de exemplo › Falha: senha com menos de 6 dígitos<br>
+PASSED: Testes de Login - aplicação de exemplo › Link "ainda não tem conta?" leva à página de cadastro<br>
 
-Spec: register.cy.js
-Tests: 6   Pass: 6   Fail: 0
-PASSED: Testes de Cadastro - aplicação de exemplo › Cadastro com sucesso (senha > 6 dígitos)
-PASSED: Testes de Cadastro - aplicação de exemplo › Falha: nome vazio
-PASSED: Testes de Cadastro - aplicação de exemplo › Falha: e-mail vazio
-PASSED: Testes de Cadastro - aplicação de exemplo › Falha: e-mail inválido
-PASSED: Testes de Cadastro - aplicação de exemplo › Falha: senha vazia
-PASSED: Testes de Cadastro - aplicação de exemplo › Falha: senha com menos de 6 dígitos
+Spec: register.cy.js<br>
+Tests: 6   Pass: 6   Fail: 0<br>
+PASSED: Testes de Cadastro - aplicação de exemplo › Cadastro com sucesso (senha > 6 dígitos)<br>
+PASSED: Testes de Cadastro - aplicação de exemplo › Falha: nome vazio<br>
+PASSED: Testes de Cadastro - aplicação de exemplo › Falha: e-mail vazio<br>
+PASSED: Testes de Cadastro - aplicação de exemplo › Falha: e-mail inválido<br>
+PASSED: Testes de Cadastro - aplicação de exemplo › Falha: senha vazia<br>
+PASSED: Testes de Cadastro - aplicação de exemplo › Falha: senha com menos de 6 dígitos<br>
